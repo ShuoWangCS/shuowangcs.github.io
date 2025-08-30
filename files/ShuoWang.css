@@ -17,6 +17,7 @@ BODY {
 	MARGIN: 0px auto;
 }
 
+
 #footer {
 	BACKGROUND: #0a2245;
 	MARGIN: 0px auto;
@@ -137,7 +138,7 @@ IMG {
 
 #left {
 	FLOAT: left;
-	WIDTH: 705px
+	WIDTH: 680px
 }
 
 #right {
@@ -265,3 +266,7 @@ A.thumbnail:hover {
 .grants-table tr:nth-child(even) {
 	background-color: #f9f9f9;
 }        
+
+.justified-text {
+      text-align: justify;
+}
